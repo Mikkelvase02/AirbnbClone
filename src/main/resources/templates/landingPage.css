@@ -1,0 +1,42 @@
+body {
+    background-color: whitesmoke;
+}
+h1 {
+    font-family: Montserrat;
+    font-weight: bold;
+    color: #FF585D;
+   text-align: center;
+    size: 35px;
+}
+p {
+    color: black;
+
+
+}
+
+h2 {
+    font-family: Montserrat;
+    font-weight: normal;
+    color: black;
+    size: 20px;
+    text-align: center;
+}
+
+button {
+
+    height: 20px;
+    width: 100px;
+    color: black;
+    font-weight: bold;
+    font-family: Montserrat;
+    text-decoration-color: white;
+
+}
+
+imageFull {
+
+    padding-bottom: 50px;
+    padding-right: 50px;
+    padding-top: 50px;
+    padding-left: 50px;
+}
