@@ -33,10 +33,13 @@ button {
 
 }
 
-imageFull {
+image {
 
+    text-overflow: fade;
+    text-decoration-color: white;
     padding-bottom: 50px;
     padding-right: 50px;
     padding-top: 50px;
     padding-left: 50px;
+
 }
